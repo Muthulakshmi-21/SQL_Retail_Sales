@@ -133,7 +133,7 @@ ORDER BY 1
 SELECT 
        year,
        month,
-    avg_sale
+       avg_sale
 FROM 
 (    
 SELECT 
